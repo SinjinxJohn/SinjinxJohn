@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinjinxjohn&label=Profile%20views&color=0e75b6&style=flat" alt="sinjinxjohn" /> </p>
 
-- 🔭 I’m currently working on [Cryptified](https://github.com/SinjinxJohn/Cryptified)
+- 🔭 I’m currently working on [Expresso](https://github.com/SinjinxJohn/Expresso)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SinjinxJohn](https://github.com/SinjinxJohn)
 
