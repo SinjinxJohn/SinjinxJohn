@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinjinxjohn&label=Profile%20views&color=0e75b6&style=flat" alt="sinjinxjohn" /> </p>
 
-- My live flutter project in playstore:https://play.google.com/store/apps/details?id=com.meditation.medit8
+
 - 👨‍💻 All of my projects are available at [https://github.com/SinjinxJohn](https://github.com/SinjinxJohn)
 
 - 📫 How to reach me **Sinjin.hotlinebling@gmail.com**
